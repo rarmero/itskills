@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "IT Skills"
+
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - about.qmd 
+
+  sidebar:
+      title: "IT Skills"
+      contents:
+        - "softskills.md"
+        - "se.md"
+        - "architecture.md"
+        - "devsecops.md"
+        - "ia.md"
+        - "neuroscience.md"
+        - "management.md"
+        - "bibliografy.md"
+
+  page-footer: 
+    background: dark
+    center: "it does not matter how slowly you go so long as you do not stop (Confucios)" 
+    right: 
+      - icon: github
+        href: https://github.com/rarmero
+      - icon: linkedin 
+        href: https://es.linkedin.com/in/rafaelcarrion 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
