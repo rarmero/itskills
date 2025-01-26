@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "se.html",
+    "href": "se.html",
+    "title": "Software Developer",
+    "section": "",
+    "text": "Domain.\nAlgorithmic and Patterns.\nTest.\nManage tasks and time.\nMindset."
+  },
+  {
+    "objectID": "se.html#ideas",
+    "href": "se.html#ideas",
+    "title": "Software Developer",
+    "section": "ideas",
+    "text": "ideas\n\nThe functionalities come from cutting the spaghetti or asking the user.\nUndoing the mess requires different patterns.\nListen, understand, implement and verify."
+  },
+  {
+    "objectID": "se.html#bibliography",
+    "href": "se.html#bibliography",
+    "title": "Software Developer",
+    "section": "Bibliography",
+    "text": "Bibliography\n\nWorking Effectively with Legacy Code.\nDomain-Driven Design Tackling Complexity in the Heart of Software\nTDD - Kent Beck"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Itskills",
