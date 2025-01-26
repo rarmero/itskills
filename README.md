@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Describing some topics related to IT skills person
+Describe some topics related to the person's IT skills.
 
 <!--
 **rarmero/rarmero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
