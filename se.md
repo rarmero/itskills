@@ -1,5 +1,5 @@
 ---
-title: "Software Developer"
+title: "Software Engineering"
 format: html
 categories: [Domain, Algorithmic, Patterns, Mindset]
 ---

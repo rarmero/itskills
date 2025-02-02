@@ -16,6 +16,7 @@ website:
       title: "IT Skills"
       contents:
         - "softskills.md"
+        - "hardskills.md"
         - "se.md"
         - "architecture.md"
         - "devsecops.md"
