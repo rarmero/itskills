@@ -1,7 +1,7 @@
 ---
 title: "HardSkills"
 format: html
-categories: [Systems, ,dabase, IaC]
+categories: [Language,Data Structures,database, IaC]
 ---
 
 - Language programing.
