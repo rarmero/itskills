@@ -4,7 +4,7 @@
     "href": "hardskills.html",
     "title": "HardSkills",
     "section": "",
-    "text": "Language programing.\nData structures. Generic. Collections.\nDatabase relational and non-relational\nTesting\nIaC\nCloud-Base Solutions\nMicroservice\nDistributed systems.\nTDD.\nDependency Injection.\nSOLOD principles.\nPatterns.\nImplementation : Layers, Hexagonal, Clean.\nDDD (Methodology)"
+    "text": "Language programing.\nData structures. Generic. Collections.\nDatabase relational and non-relational\nTesting\nIaC\nCloud-Base Solutions\nMicroservice\nDistributed systems.\nTDD.\nDependency Injection.\nSOLID principles.\nPatterns.\nImplementation : Layers, Hexagonal, Clean.\nDDD (Methodology)"
   },
   {
     "objectID": "se.html",
