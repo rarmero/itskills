@@ -16,7 +16,7 @@ categories: [Language,Data Structures,database, IaC]
 
 - TDD.
 - Dependency Injection.
-- SOLOD principles.
+- SOLID principles.
 - Patterns.
 - Implementation : Layers, Hexagonal, Clean.
 
