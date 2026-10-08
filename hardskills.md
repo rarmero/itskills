@@ -12,3 +12,13 @@ categories: [Language,Data Structures,database, IaC]
 - Cloud-Base Solutions
 - Microservice
 - Distributed systems.
+
+
+- TDD.
+- Dependency Injection.
+- SOLOD principles.
+- Patterns.
+- Implementation : Layers, Hexagonal, Clean.
+
+
+- DDD (Methodology)
